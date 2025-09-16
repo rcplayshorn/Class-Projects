@@ -6,4 +6,4 @@ process and simulating earnings, we developed a framework Bluebikes can use to o
 maximal ride provision (and revenue generation).
 
 I wrote the whole report and coded the revenue simulations. Ejike Ike and Marko Isakovic coded/wrote the rest
-of the Jupyter notebook.
+of the Jupyter notebook. Andrej Basica made the slides.
