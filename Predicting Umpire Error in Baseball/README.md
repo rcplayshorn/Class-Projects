@@ -5,6 +5,6 @@ biased officiating to hopefully guide Blue on what they should look out for from
 
 I wrote the code for data cleaning + feature engineering, the final few models, and initial explanations. Liam
 Taylor drafted up the model pipeline and implemented the non-parametric models. John Russell carried out our EDA
-and revised explanations of our observations. Rad Pelanis made the final slides and video.
+and revised explanations of our observations. Rad Pelanis made the final slides and video. 
 
 Link to our video presentation: https://drive.google.com/file/d/1w4FPRLfbkSUW6V9YF7F3nTq7vA9il0_V/view?usp=sharing
