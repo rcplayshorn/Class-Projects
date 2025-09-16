@@ -1,6 +1,6 @@
 I love baseball. But, I don't love when human error in umpiring dictates game outcomes. In our 21st century world 
 full of instant replays and nearly-perfect ball tracking, perhaps can help our umpires get better. Along with some 
-buddies in my intro to data science class, I set out to uncover the root causes (or, at least, covariates) of 
+buddies in Harvard's Intro to Data Science class, I set out to uncover the root causes (or, at least, covariates) of 
 biased officiating to hopefully guide Blue on what they should look out for from behind the plate.
 
 I wrote the code for data cleaning + feature engineering, the final few models, and initial explanations. Liam
